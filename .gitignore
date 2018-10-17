@@ -2,3 +2,4 @@ node_modules
 dist/*
 *.log
 a.js
+.DS_Store
