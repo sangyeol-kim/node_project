@@ -8,7 +8,9 @@ module.exports = () => {
     }
     mongoose.connect(
       "mongodb://localhost:27017/postDB",
+      //postDB는 예시일 뿐 변경할 수 있습니다.
       { auth: { authSource: "admin" }, user: "", pass: "" },
+      // user와 pass에 자신의 계정 정보를 입력합니다.
       error => {
         if (error) {
           console.log("몽고디비 연결 에러", error);
