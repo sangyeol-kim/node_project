@@ -13,12 +13,12 @@
 
 ## 설치
 
-- \$ npm install || yarn install
-- \$ npm start || node app.js
+- \$ npm install | yarn install
+- \$ npm start | node app.js
 
 ## 설정
 
-- ./model/index.js에 자신의 계정 정보를 추가합니다.
+./model/index.js에 자신의 계정 정보를 추가합니다.
 
 ## Postman을 이용한 API 사용 방법
 
@@ -32,9 +32,9 @@ Method : [Read: Get], [Create, Update, Delete: Post]
 Body(x-www-form-urlenceded)
   - name: 이름
   - age: 나이
-```
 
-> id: ObjectId, action: create, update, delete
+// id: ObjectId, action: create, update, delete
+```
 
 ## 개선사항
 
