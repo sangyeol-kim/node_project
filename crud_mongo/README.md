@@ -42,7 +42,7 @@ Body(x-www-form-urlenceded)
 - User Session 추가
 - JWT 적용
 - AWS Deploy
-- etc..
+- etc...
 
 ## 감사합니다.
 
