@@ -16,7 +16,7 @@
 - \$ npm install | yarn install
 - \$ npm start | node app.js
 
-## 설정
+## MongoDB 설정
 
 ./model/index.js에 자신의 계정 정보를 추가합니다.
 
