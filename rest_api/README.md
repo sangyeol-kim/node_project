@@ -1,8 +1,8 @@
-# MongoDB CRUD API 사용 가이드
+# REST API 사용 가이드
 
 ## 정보
 
-해당 API는 [Node.js](https://nodejs.org/)와 [MongoDB](https://www.mongodb.com/)를 이용한 CRUD 프로그램입니다.
+해당 REST API는 [Node.js](https://nodejs.org/)와 [MongoDB](https://www.mongodb.com/)를 이용한 CRUD 프로그램입니다.
 
 > API를 사용하기 위해서는 Node.js와 MongoDB 설치가 필요합니다.
 
@@ -16,7 +16,7 @@
 - \$ npm install | yarn install
 - \$ npm start | node app.js
 
-## 설정
+## MongoDB 설정
 
 ./model/index.js에 자신의 계정 정보를 추가합니다.
 
