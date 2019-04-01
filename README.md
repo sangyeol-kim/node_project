@@ -2,7 +2,7 @@
 
 ## 목차
 
-- [CRUD_MongoDB](./crud_mongo/)
+- [REST_API](./rest_api/)
 
 - [Nodemailer](https://github.com/sangyeol-kim/likelion_mailer) 
 
